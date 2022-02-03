@@ -13,7 +13,7 @@ public class Example1
 		String learnerAddress = "Hyderabad";
 		
 		System.out.print("learner Id:");
-		System.out.println(learnerId);
+		System.out.println("learnerId");
 		
 		System.out.print("learner Name");
 		System.out.println("learnerName");
